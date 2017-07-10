@@ -1,0 +1,3 @@
+rootProject.name = 'SmartTasks'
+
+include ':app'
